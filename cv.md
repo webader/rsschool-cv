@@ -22,6 +22,7 @@ I was engaged in the automation of business processes in financial institutions,
 ### Skills
     
 * Html5, Css3, Scss
+* SQL
 * JavaScript
 * Git
 * Figma, Photoshop
