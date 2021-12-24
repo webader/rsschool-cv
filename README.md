@@ -1,1 +1,2 @@
-https://webader.github.io/rsschool-cv/cv
+# rsschool-cv
+https://webader.github.io/rsschool-cv/
