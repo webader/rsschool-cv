@@ -30,14 +30,15 @@ I was engaged in the automation of business processes in financial institutions,
 ---
 ### My code example
 
-"'dots = document.querySelectorAll('.dot');
+"`dots = document.querySelectorAll('.dot');
     dotsWrap.addEventListener('click', function(event) {
         for (let i=0;i<dots.length+1;i++) {
             if (event.target.classList.contains('dot') event.target == dots[i-1]) {
                 currentSlide(i);
             }
         }
-    });'"
+    });`"
+    
 ---
 ### Courses
 
