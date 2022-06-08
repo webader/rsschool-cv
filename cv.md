@@ -3,8 +3,11 @@
 ---
 ### Contact information
 **Phone**: +380507259009
+---
 **Email**: alexey.derenko@gmail.com
+---
 **Telegram**: @aderenko
+---
 **GitHub**: [webader](https://github.com/webader)
 ---
 ### About Me
