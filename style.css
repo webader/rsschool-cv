@@ -284,6 +284,11 @@
   .footer {
     color: white;
     background-color: #829985;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
   }
   .footer ul {
     display: flex;
