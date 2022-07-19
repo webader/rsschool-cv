@@ -284,7 +284,7 @@
   .footer {
     color: white;
     background-color: #829985;
-    position: absolute;
+    position: sticky;
     bottom: 0;
     right: 0;
     left: 0;
