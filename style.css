@@ -7,6 +7,10 @@
     font-weight: 400;
     line-height: 1.2;
   }
+
+body {
+    height: 100vh;
+}
   
   li {
     list-style-type: none;
