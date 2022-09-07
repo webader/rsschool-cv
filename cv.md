@@ -34,4 +34,4 @@ I was engaged in the automation of business processes in financial institutions,
 
 * English - intermediate
 * Ukranian - native
-* Russian - native <https://webader.github.io/rsschool-cv/cv>
+* Russian - native <https://webader.github.io/rsschool-cv/cv >
